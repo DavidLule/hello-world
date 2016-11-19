@@ -1,2 +1,5 @@
 # hello-world
-first code
+
+Hi humans!
+
+now is the right time
